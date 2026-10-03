@@ -99,10 +99,10 @@ The XGBoost model achieved significantly better performance, maintaining high re
               precision    recall  f1-score   support
 
            0       1.00      1.00      1.00   1906322
-           1       0.98      0.88      0.93      2464
+           1       0.48      0.98      0.64      2464
 
     accuracy                           1.00   1908786
-   macro avg       0.99      0.94      0.96   1908786
+   macro avg       0.74      0.99      0.82   1908786
 weighted avg       1.00      1.00      1.00   1908786
 
 ```
